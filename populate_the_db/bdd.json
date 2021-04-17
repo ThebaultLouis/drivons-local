@@ -1,0 +1,877 @@
+[
+    {
+        "productCategories": {
+            "Fruits": {
+                "BIO Pommes Juliet": {
+                    "units": [
+                        {
+                            "price": 150,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 2000,
+                            "unit": "Caisse de 14 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Pommes Golden": {
+                    "units": [
+                        {
+                            "price": 120,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1600,
+                            "unit": "Caisse de 14 kg",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Pommes Goldrush": {
+                    "units": [
+                        {
+                            "price": 1600,
+                            "unit": "Caisse de 14 kg",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Pommes Story": {
+                    "units": [
+                        {
+                            "price": 120,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1600,
+                            "unit": "Caisse de 14 kg",
+                            "isAvaible": true
+                        }
+                    ]
+                }
+            },
+            "Jus de fruit": {
+                "BIO Jus de pommes": {
+                    "units": [
+                        {
+                            "price": 280,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Jus de p\u00eache jaune": {
+                    "units": [
+                        {
+                            "price": 280,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Jus de p\u00eache blanche": {
+                    "units": [
+                        {
+                            "price": 280,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Jus de p\u00eache abricot": {
+                    "units": [
+                        {
+                            "price": 280,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Jus de prune": {
+                    "units": [
+                        {
+                            "price": 280,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ]
+                },
+                "Carton 6x1 L": {
+                    "units": [
+                        {
+                            "price": 1500,
+                            "unit": "Carton de 6 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Composition du carton sur place"
+                },
+                "Carton 12x1 L": {
+                    "units": [
+                        {
+                            "price": 2500,
+                            "unit": "Carton de 12 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Composition du carton sur place"
+                }
+            },
+            "Epicerie sucr\u00e9e": {
+                "Confiture de cerises": {
+                    "units": [
+                        {
+                            "price": 250,
+                            "unit": "Pot de 370 g",
+                            "isAvaible": true
+                        }
+                    ]
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 1,
+                "openingHours": [
+                    "8h30-11h30",
+                    "13h30-16h30"
+                ]
+            },
+            {
+                "value": 2,
+                "openingHours": [
+                    "8h30-11h30",
+                    "13h30-16h30",
+                    "18h-19h"
+                ]
+            },
+            {
+                "value": 4,
+                "openingHours": [
+                    "8h30-11h30",
+                    "13h30-16h30"
+                ]
+            },
+            {
+                "value": 5,
+                "openingHours": [
+                    "8h30-11h30",
+                    "13h30-16h30",
+                    "18h-19h"
+                ]
+            },
+            {
+                "value": 6,
+                "openingHours": [
+                    "10h-12h"
+                ]
+            }
+        ],
+        "name": "Les vergers de l'abbaye",
+        "mail": "les-vergers-de-l-abbaye@outlook.fr",
+        "website": "",
+        "producerName": "Laurent Clut",
+        "zipcode": "26300",
+        "dep": "26",
+        "city": "Ch\u00e2teauneuf-sur-Is\u00e8re",
+        "adress": "545 chemin de Vernaison",
+        "adressInfo": ""
+    },
+    {
+        "productCategories": {
+            "Jus de fruit": {
+                "Jus de poire": {
+                    "units": [
+                        {
+                            "price": 250,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "100% fruits, sans sucre ajout\u00e9"
+                },
+                "Nectar d'abricot": {
+                    "units": [
+                        {
+                            "price": 250,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Carton de 6x1 L": {
+                    "units": [
+                        {
+                            "price": 1350,
+                            "unit": "Carton de 6L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Mix de diff\u00e9rentes bouteilles possible"
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 6,
+                "openingHours": [
+                    "10h-12h"
+                ]
+            }
+        ],
+        "name": "GAGNERE Patrice",
+        "mail": "revifruit@laposte.net",
+        "website": "",
+        "producerName": "Patrice Gagnere",
+        "zipcode": "07430",
+        "dep": "07",
+        "city": "Saint-\u00c9tienne-de-Valoux",
+        "adress": "La revicole",
+        "adressInfo": ""
+    },
+    {
+        "productCategories": {
+            "Fruits": {
+                "BIO Pommes Dalinette": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Caisse de 12,5 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1000,
+                            "unit": "Caisse de 6 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 190,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pommes Story": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Caisse de 12,5 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1000,
+                            "unit": "Caisse de 6 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 190,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pommes Goldrush": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Caisse de 12,5 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1000,
+                            "unit": "Caisse de 6 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 190,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pommes m\u00e9lange Dalinette/Story/Goldrush": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Caisse de 12,5kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Poires Conference": {
+                    "units": [
+                        {
+                            "price": 800,
+                            "unit": "Caisse de 5 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 190,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "2e ann\u00e9e de conversion vers le BIO"
+                }
+            },
+            "Jus de fruit": {
+                "BIO Jus de pommes": {
+                    "units": [
+                        {
+                            "price": 1700,
+                            "unit": "6 L",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 290,
+                            "unit": "1 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                }
+            },
+            "": {}
+        },
+        "openingDays": [
+            {
+                "value": 3,
+                "openingHours": [
+                    "16h-18h30"
+                ]
+            },
+            {
+                "value": 5,
+                "openingHours": [
+                    "16h-18h30"
+                ]
+            }
+        ],
+        "name": "Les vergers de Fouillouse",
+        "mail": "vergers-fouillouse@orange.fr",
+        "website": "",
+        "producerName": "Philippe et David Patouillard",
+        "zipcode": "26300",
+        "dep": "26",
+        "city": "Ch\u00e2teauneuf-sur-Is\u00e8re",
+        "adress": "940 route de Fouillouse",
+        "adressInfo": "Sur GPS, chercher \"Algoa spiruline\", c'est \u00e0 100m"
+    },
+    {
+        "productCategories": {
+            "Epicerie sucr\u00e9e": {
+                "Miel de lavande": {
+                    "units": [
+                        {
+                            "price": 1500,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 800,
+                            "unit": "500 g",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 500,
+                            "unit": "250 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Miel de ch\u00e2taigner": {
+                    "units": [
+                        {
+                            "price": 1500,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 800,
+                            "unit": "500 g",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 500,
+                            "unit": "250 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Miel de printemps": {
+                    "units": [
+                        {
+                            "price": 1200,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 700,
+                            "unit": "500 g",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 400,
+                            "unit": "250 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Miel de tilleul": {
+                    "units": [
+                        {
+                            "price": 1200,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 700,
+                            "unit": "500 g",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 400,
+                            "unit": "250 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Miel de fleurs": {
+                    "units": [
+                        {
+                            "price": 1200,
+                            "unit": "1 kg",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 700,
+                            "unit": "500 g",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 400,
+                            "unit": "250 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Propolis": {
+                    "units": [
+                        {
+                            "price": 900,
+                            "unit": "100 g",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Coffret cadeau en sac, 3 pots de 500 g ch\u00e2taigner, de printemps et miel cr\u00e9meux": {
+                    "units": [
+                        {
+                            "price": 2500,
+                            "unit": "Coffret",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "Coffret cadeau en bois, 4 pots de 250 g acacia, ch\u00e2taigner, de printemps et miel cr\u00e9meux": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Coffret",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 5,
+                "openingHours": [
+                    "17h-19h"
+                ]
+            },
+            {
+                "value": 6,
+                "openingHours": [
+                    "9h-12h"
+                ]
+            }
+        ],
+        "name": "BANCHET Philippe",
+        "mail": "philippebanchet@outlook.com",
+        "website": "",
+        "producerName": "Philippe Banchet",
+        "zipcode": "26300",
+        "dep": "26",
+        "city": "Ch\u00e2teauneuf-sur-Is\u00e8re",
+        "adress": "364 Chemin du quartier",
+        "adressInfo": ""
+    },
+    {
+        "productCategories": {
+            "Fruits": {
+                "BIO Pommes Opal": {
+                    "units": [
+                        {
+                            "price": 2700,
+                            "unit": "Caisse de 13 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pommes Story": {
+                    "units": [
+                        {
+                            "price": 2700,
+                            "unit": "Caisse de 13 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pommes Juliet": {
+                    "units": [
+                        {
+                            "price": 2700,
+                            "unit": "Caisse de 13 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Poires Doyenne du comice": {
+                    "units": [
+                        {
+                            "price": 3000,
+                            "unit": "Caisse de 12 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Poires Conference": {
+                    "units": [
+                        {
+                            "price": 2500,
+                            "unit": "Caisse de 12 kg",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                }
+            },
+            "Jus de fruit": {
+                "BIO Jus de pommes Lafayette": {
+                    "units": [
+                        {
+                            "price": 1800,
+                            "unit": "Carton de 6 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Jus de pommes Ros\u00e9e": {
+                    "units": [
+                        {
+                            "price": 1800,
+                            "unit": "Carton de 6 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Jus de poires": {
+                    "units": [
+                        {
+                            "price": 1800,
+                            "unit": "Carton de 6 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                }
+            },
+            "Epicerie sucr\u00e9e": {
+                "BIO Pur\u00e9e de pommes Opal": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Carton de 6 bocaux de 620ml",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                },
+                "BIO Pur\u00e9e de pommes Ros\u00e9e": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "Carton de 6 bocaux de 620ml",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": ""
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 1,
+                "openingHours": [
+                    "18h-19h"
+                ]
+            },
+            {
+                "value": 2,
+                "openingHours": [
+                    "18h-19h"
+                ]
+            },
+            {
+                "value": 3,
+                "openingHours": [
+                    "18h-19h"
+                ]
+            }
+        ],
+        "name": "Tip Top Fruits",
+        "mail": "tiptopfruits04@orange.fr",
+        "website": "",
+        "producerName": "Bruno Rivory et Laurent Gilles",
+        "zipcode": "04200",
+        "dep": "04",
+        "city": "Sisteron",
+        "adress": "160 ch du ch\u00e2taignier",
+        "adressInfo": ""
+    },
+    {
+        "productCategories": {
+            "Vins": {
+                "Un matin 2019": {
+                    "units": [
+                        {
+                            "price": 9000,
+                            "unit": "Carton de 6x75 cl",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1600,
+                            "unit": "75 cl",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Crozes-Hermitage blanc"
+                },
+                "Etincelle 2018": {
+                    "units": [
+                        {
+                            "price": 8400,
+                            "unit": "Carton de 6x75 cl",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1500,
+                            "unit": "75 cl",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Crozes-Hermitage rouge"
+                },
+                "Etincelle 2017": {
+                    "units": [
+                        {
+                            "price": 3200,
+                            "unit": "Magnum 1.5 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Crozes-Hermitage rouge"
+                },
+                "La fleur enchant\u00e9e 2017": {
+                    "units": [
+                        {
+                            "price": 10200,
+                            "unit": "Carton de 6x75 cl",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 1800,
+                            "unit": "75 cl",
+                            "isAvaible": true
+                        },
+                        {
+                            "price": 3800,
+                            "unit": "Magnum 1.5 L",
+                            "isAvaible": true
+                        }
+                    ],
+                    "info": "Crozes-Hermitage rouge"
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 1,
+                "openingHours": [
+                    "9h-12h",
+                    "13h30-18h"
+                ]
+            },
+            {
+                "value": 2,
+                "openingHours": [
+                    "9h-12h",
+                    "13h30-18h"
+                ]
+            },
+            {
+                "value": 3,
+                "openingHours": [
+                    "9h-12h",
+                    "13h30-18h"
+                ]
+            },
+            {
+                "value": 4,
+                "openingHours": [
+                    "9h-12h",
+                    "13h30-18h"
+                ]
+            },
+            {
+                "value": 5,
+                "openingHours": [
+                    "9h-12h",
+                    "13h30-18h"
+                ]
+            },
+            {
+                "value": 6,
+                "openingHours": [
+                    "9h-12h"
+                ]
+            }
+        ],
+        "name": "Domaine St Clair",
+        "mail": "domainesaintclair@orange.fr",
+        "website": "https://domaine-saint-clair.fr/",
+        "producerName": "Denis Basset",
+        "zipcode": "26600",
+        "dep": "26",
+        "city": "Beaumont-Monteux",
+        "adress": "265 chemin de la grange",
+        "adressInfo": ""
+    },
+    {
+        "productCategories": {
+            "Fruits": {
+                "Cerises": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "5 kg",
+                            "isAvaible": false
+                        }
+                    ],
+                    "info": "soit 4 \u20ac/kg"
+                },
+                "Abricots Orangered": {
+                    "units": [
+                        {
+                            "price": 3500,
+                            "unit": "10 kg",
+                            "isAvaible": false
+                        },
+                        {
+                            "price": 1750,
+                            "unit": "5 kg",
+                            "isAvaible": false
+                        }
+                    ],
+                    "info": "soit 3,50 \u20ac/kg"
+                },
+                "Abricots Bergeval": {
+                    "units": [
+                        {
+                            "price": 3000,
+                            "unit": "10 kg",
+                            "isAvaible": false
+                        },
+                        {
+                            "price": 1500,
+                            "unit": "5 kg",
+                            "isAvaible": false
+                        }
+                    ],
+                    "info": "soit 3 \u20ac/kg"
+                },
+                "Prunes Reines Claude Bavais": {
+                    "units": [
+                        {
+                            "price": 2000,
+                            "unit": "10 kg",
+                            "isAvaible": false
+                        },
+                        {
+                            "price": 1000,
+                            "unit": "5 kg",
+                            "isAvaible": false
+                        }
+                    ],
+                    "info": "soit 2 \u20ac/kg"
+                }
+            }
+        },
+        "openingDays": [
+            {
+                "value": 1,
+                "openingHours": [
+                    "18h-19h30"
+                ]
+            },
+            {
+                "value": 3,
+                "openingHours": [
+                    "18h-19h30"
+                ]
+            },
+            {
+                "value": 5,
+                "openingHours": [
+                    "18h-19h30"
+                ]
+            }
+        ],
+        "name": "RAYDON David",
+        "mail": "b.raydon@orange.fr",
+        "website": "",
+        "producerName": "David Raydon",
+        "zipcode": "07300",
+        "dep": "07",
+        "city": "Glun",
+        "adress": "4 rue du midi",
+        "adressInfo": "Venir en voiture jusque dans la cours de l\u2019exploitation (croix rouge)."
+    }
+]

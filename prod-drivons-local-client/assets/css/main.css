@@ -1,0 +1,11 @@
+.shadowOnWhiteText {
+  text-shadow: 1px 1px 12px #000;
+}
+.v-card__text,
+.v-card__title {
+  word-break: normal !important; /* maybe !important  */
+}
+.min-v-select .v-input__control {
+  max-height: 0 !important;
+  min-height: 0 !important;
+}

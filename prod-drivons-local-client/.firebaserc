@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "drivons-local-dev",
+    "dev": "drivons-local-dev",
+    "prod": "drivons-local-prod"
+  }
+}
